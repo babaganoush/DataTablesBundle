@@ -1,6 +1,6 @@
 <?php
 
-namespace Babaganoush\DataTables\DependencyInjection;
+namespace Babaganoush\DataTablesBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
